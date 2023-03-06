@@ -1,0 +1,19 @@
+#Bouton1, #Bouton2 {
+    width: 160px;
+    height: 45px;
+    border: none;
+}
+.menu {
+    font-family: 'Trebuchet MS';
+    background-color: antiquewhite;
+    display: grid;border: none;
+    grid: 90px;
+    width: 1265px;
+    height: 80px;
+    align-content: center;
+    display: block;border: none;
+    border: none;
+}
+.Bouton {
+    background-color: rgba(150, 98, 40, 0.584);
+}
