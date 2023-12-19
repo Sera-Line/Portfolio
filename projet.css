@@ -1,0 +1,39 @@
+#projet {
+    position: relative;
+    left: 280px;
+    bottom: 140px;
+    width: 160px;
+    height: 45px;
+    border: none;
+    font-size: 12px;
+    font-size: larger;
+    font-weight: bold;
+    font-family: 'Trebuchet MS';
+    background-color: rgb(7, 117, 148);
+}
+
+#Projet:hover {
+    background-color: rgb(5, 155, 155);
+}
+
+::-webkit-scrollbar {
+    width: 12px;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background:  rgb(5, 155, 155);
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: rgb(7, 117, 148);
+  }
+
+body {
+    align-content: center;
+}
+
+.progression {
+    text-align: center;
+    justify-content: center;
+    color: rgb(5, 155, 155);
+}

@@ -1,0 +1,36 @@
+.Linkedin {
+    width: 70px;
+}
+
+::-webkit-scrollbar {
+    width: 12px;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background:  rgba(150, 98, 40, 0.584);
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: antiquewhite;
+  }
+
+.body {
+    background-color: rgba(169,147,107, 0.628);
+}
+
+#Projet {
+  position: relative;
+  left: 280px;
+  bottom: 123px;
+  width: 160px;
+  height: 45px;
+  border: none;
+  font-size: 12px;
+  font-family: 'Trebuchet MS';
+  font-weight: bold;
+  background-color: rgb(7, 117, 148);
+}
+
+#Projet:hover {
+  background-color: rgb(5, 155, 155);
+}
