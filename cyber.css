@@ -1,0 +1,48 @@
+.Cybersec {
+    background-color: black;
+    color: white;
+    font-family: 'Courier New';
+}
+
+.contenuhover {
+    opacity: 0;
+    color: black;
+    font-size: 45px;
+    font: bolder;
+    position: relative;
+    bottom: 75px;
+    left: 5px;
+}
+
+.contenuhover:hover {
+    opacity: 1;
+}
+
+.alinea {
+    text-indent: 25px;
+    color: rgb(133, 56, 206);
+}
+
+#Cyber {
+    background-color: rgb(7, 186, 31);
+}
+
+#Cyber:hover {
+    background-color: red;
+}
+
+.Cyber {
+    text-align: center;
+}
+
+::-webkit-scrollbar {
+    width: 12px;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background:  rgb(7, 186, 31);
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: black;
+  }

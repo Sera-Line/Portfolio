@@ -1,0 +1,30 @@
+.veille {
+    background-color: white;
+    color: orange;
+}
+
+::-webkit-scrollbar {
+    width: 12px;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background:  rgb(255, 180, 89);
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: rgba(255, 140, 0, 0.45);
+  }
+
+  .centreee {
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+  }
+
+  #Outils {
+    border: none;
+    font-family: 'Trebuchet MS';
+    width: 80px;
+    height: 30px;
+    background-color: rgb(255, 180, 89);
+  }

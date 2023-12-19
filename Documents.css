@@ -1,0 +1,25 @@
+.docdoc {
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: 'Trebuchet MS';
+}
+li {
+    text-align: left;
+}
+a {
+    color: rgb(133, 56, 206);
+}
+
+::-webkit-scrollbar {
+    width: 12px;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background:  rgb(198, 43, 226);
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: rgb(133, 56, 206);
+  }
+

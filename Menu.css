@@ -1,0 +1,110 @@
+.menu {
+    font-family: 'Trebuchet MS';
+    background-color: antiquewhite;
+    width: 1245px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+
+.Bouton {
+    background-color: rgba(150, 98, 40, 0.584);
+    width: 160px;
+    height: 45px;
+    border: none;
+    font-size: 12px;
+    font-family: 'Trebuchet MS';
+    font-weight: bold;
+}
+
+.Bouton:hover {
+    background-color: rgba(116, 72, 22, 0.584);
+}
+
+.footer {
+    font-family: 'Trebuchet MS';
+    color: rgb(70, 18, 134);
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.menuUwU {
+    font-family: 'Trebuchet MS';
+    background-color: rgb(133, 56, 206);
+    width: 1245px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+
+.BoutonLOL {
+    width: 160px;
+    height: 45px;
+    border: none;
+    font-size: 12px;
+    font-family: 'Trebuchet MS';
+    font-weight: bold;
+    background-color: rgb(198, 43, 226);
+}
+
+.BoutonLOL:hover {
+    background-color: rgb(140, 21, 161);
+}
+.menuVeille {
+    background-color: rgba(255, 140, 0, 0.45);
+    font-weight: bold;
+    font-family: 'Trebuchet MS';
+    width: 1245px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+
+.BoutonVeille {
+    width: 160px;
+    height: 45px;
+    border: none;
+    font-size: 12px;
+    font-family: 'Trebuchet MS';
+    font-weight: bold;
+    background-color: rgb(255, 180, 89);
+}
+
+.BoutonVeille:hover {
+    background-color: rgb(236, 153, 45);
+}
+
+.menuProjet {
+    background-color: rgb(7, 117, 148);
+    font-weight: bold;
+    font-family: 'Trebuchet MS';
+    width: 1245px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+
+.BoutonProjet {
+    width: 160px;
+    height: 45px;
+    border: none;
+    font-size: 12px;
+    font-family: 'Trebuchet MS';
+    font-weight: bold;
+    background-color:  rgb(5, 155, 155);
+}
+
+.BoutonProjet:hover {
+    background-color: aquamarine;
+}
+
