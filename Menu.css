@@ -24,12 +24,11 @@
 }
 
 .footer {
+    display: flex;
+    justify-content: center;
     font-family: 'Trebuchet MS';
     color: rgb(70, 18, 134);
-    align-items: center;
-    align-content: center;
-    text-align: center;
-    justify-content: center;
+    font-weight: bold;
 }
 
 .menuUwU {

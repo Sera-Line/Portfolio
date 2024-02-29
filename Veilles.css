@@ -1,6 +1,11 @@
 .veille {
     background-color: white;
     color: orange;
+    font-family: 'Trebuchet MS';
+}
+
+a {
+  color: black;
 }
 
 ::-webkit-scrollbar {
@@ -28,3 +33,13 @@
     height: 30px;
     background-color: rgb(255, 180, 89);
   }
+
+  .texte {
+    text-align: center;
+    font-family: 'Trebuchet MS';
+}
+
+.texte {
+  max-width: 500px;
+  margin: auto;
+}
