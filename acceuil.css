@@ -1,12 +1,13 @@
 .texte {
     text-align: center;
-    font-family: 'Trebuchet MS';
+    font-family: 'Courier New';
     max-width: 500px;
     margin: auto;
 }
 
 .body {
-    background-color: rgba(169,147,107, 0.628);
+    background-color: black;
+    color: white;
 }
 
 li {
@@ -22,11 +23,11 @@ ul {
   }
   
   ::-webkit-scrollbar-thumb {
-    background:  rgba(150, 98, 40, 0.584);
+    background:  rgb(198, 43, 226);
   }
   
   ::-webkit-scrollbar-track {
-    background: antiquewhite;
+    background: rgb(133, 56, 206);
   }
 
   .option {
