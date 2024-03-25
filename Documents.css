@@ -2,13 +2,13 @@
     text-align: center;
     background-color: black;
     color: white;
-    font-family: 'Trebuchet MS';
+    font-family: 'Courier New';
 }
 li {
     text-align: left;
 }
 a {
-    color: rgb(133, 56, 206);
+    color: rgb(170, 109, 227);
 }
 
 ::-webkit-scrollbar {

@@ -2,6 +2,7 @@
     background-color: white;
     color: orange;
     font-family: 'Trebuchet MS';
+    background-color: white;
 }
 
 a {
@@ -17,7 +18,7 @@ a {
   }
   
   ::-webkit-scrollbar-track {
-    background: rgba(255, 140, 0, 0.45);
+    background: rgb(248, 145, 20);
   }
 
   .centreee {
