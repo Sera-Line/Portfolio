@@ -46,3 +46,6 @@
   ::-webkit-scrollbar-track {
     background: black;
   }
+.Cyber:hover {
+    background: red;
+}
