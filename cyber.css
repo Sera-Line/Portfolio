@@ -49,3 +49,48 @@
 .Cyber:hover {
     background: red;
 }
+
+.Audio {
+    color: black;
+    background-color: black;    
+}
+
+.menu, #Cyber {
+    font-family: 'Trebuchet MS';
+    background-color: rgb(7, 186, 31);
+    width: 99%;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Bouton {
+    background-color: rgba(150, 98, 40, 0.584);
+    width: 160px;
+    height: 45px;
+    border: none;
+    font-size: 12px;
+    font-family: 'Trebuchet MS';
+    font-weight: bold;
+    margin: 10px;
+}
+
+.Bouton:hover {
+    background-color: rgba(116, 72, 22, 0.584);
+}
+
+@media screen and (max-width: 900px) {
+    .bloc {
+      width: 90%;
+    }
+    .menu {
+      width: 90%;
+    }
+    .Bouton {
+        width: 100%;
+    }
+    embed {
+        width: 90%;
+    }
+}

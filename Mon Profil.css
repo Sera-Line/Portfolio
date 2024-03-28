@@ -36,3 +36,24 @@
   background-color: rgb(5, 155, 155);
 }
 
+.bloc {
+  width: 1500px;
+  height: 700px;
+  background-color: #202228;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 900px) {
+  .bloc {
+    width: 90%;
+  }
+  .menuUwU {
+    width: 90%;
+  }
+  .Bouton {
+      width: 100%;
+  }
+  embed {
+      width: 90%;
+  }
+}
