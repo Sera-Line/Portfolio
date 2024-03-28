@@ -42,7 +42,7 @@
 }
 
 .BoutonVeille {
-    width: 160px;
+    width: 140px;
     height: 45px;
     border: none;
     font-size: 12px;
@@ -80,6 +80,33 @@
 
 .BoutonProjet:hover {
     background-color: aquamarine;
+}
+
+@media screen and (max-width: 900px) {
+    .bloc {
+      width: 90%;
+    }
+    .menuUwU {
+      width: 99%;
+    }
+    .BoutonLOL {
+        width: 100%;
+    }
+    embed {
+        width: 90%;
+    }
+    .menuVeille {
+        width: 99%;
+    }
+    .BoutonVeille {
+        width: 100%;
+    }
+    .menuProjet {
+        width: 99%;
+    }
+    .BoutonProjet {
+        width: 100%;
+    }
 }
 
 @media screen and (max-width: 400px) {
