@@ -80,7 +80,7 @@
     background-color: rgba(116, 72, 22, 0.584);
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 400px) {
     .bloc {
       width: 90%;
     }

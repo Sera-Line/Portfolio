@@ -82,7 +82,7 @@
     background-color: aquamarine;
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 400px) {
     .bloc {
       width: 90%;
     }
