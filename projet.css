@@ -36,5 +36,6 @@ body {
 .progression {
     text-align: center;
     justify-content: center;
-    color: rgb(5, 155, 155);
+    color: rgb(13, 76, 148);
+    background-color: rgba(16, 202, 202, 0.829);
 }

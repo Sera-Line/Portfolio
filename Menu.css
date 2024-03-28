@@ -82,6 +82,31 @@
     background-color: aquamarine;
 }
 
+.menu, #Cyber {
+    font-family: 'Trebuchet MS';
+    background-color: rgb(7, 186, 31);
+    width: 99%;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Bouton {
+    background-color: rgb(8, 148, 27);
+    width: 160px;
+    height: 45px;
+    border: none;
+    font-size: 12px;
+    font-family: 'Trebuchet MS';
+    font-weight: bold;
+    margin: 10px;
+}
+
+.Bouton:hover {
+    background-color: rgb(199, 18, 18);
+}
+
 @media screen and (max-width: 900px) {
     .bloc {
       width: 90%;
@@ -106,6 +131,18 @@
     }
     .BoutonProjet {
         width: 100%;
+    }
+    #Projet {
+        width: 30%;
+    }
+    .bloc {
+        width: 90%;
+    }
+      .menu {
+        width: 99%;
+    }
+      .Bouton {
+          width: 100%;
     }
 }
 
@@ -134,4 +171,17 @@
     .BoutonProjet {
         width: 100%;
     }
+    #Projet {
+        width: 30%;
+    }
+    .bloc {
+        width: 90%;
+    }
+      .menu {
+        width: 99%;
+    }
+      .Bouton {
+          width: 100%;
+    }
 }
+
