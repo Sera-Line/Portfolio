@@ -21,26 +21,21 @@ a {
     background: rgb(248, 145, 20);
   }
 
-  .centreee {
-    text-align: center;
-    justify-content: center;
-    align-content: center;
-  }
-
-  #Outils {
-    border: none;
-    font-family: 'Trebuchet MS';
-    width: 80px;
-    height: 30px;
-    background-color: rgb(255, 180, 89);
-  }
-
-  .texte {
-    text-align: center;
-    font-family: 'Trebuchet MS';
+#Outils {
+  border: none;
+  font-family: 'Trebuchet MS';
+  width: 80px;
+  height: 30px;
+  background-color: rgb(255, 180, 89);
 }
 
 .texte {
   max-width: 500px;
-  margin: auto;
+  text-align: center;
+  font-family: 'Trebuchet MS';
+}
+
+#center {
+  justify-content: center;
+  margin-left: 30%;
 }

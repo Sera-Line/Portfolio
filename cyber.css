@@ -46,11 +46,17 @@
   ::-webkit-scrollbar-track {
     background: black;
   }
+
 .Cyber:hover {
     background: red;
 }
 
-.Audio {
-    color: black;
-    background-color: black;    
+.Title {
+    color: orange;
+    text-align: center;
+}
+
+.Inspirations {
+    justify-content: center;
+    text-align: center;
 }

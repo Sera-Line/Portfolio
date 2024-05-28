@@ -1,5 +1,15 @@
 .Linkedin {
     width: 70px;
+    margin-left: 4px;
+}
+
+.Github {
+  width: 70px;
+  margin-left: 4px;
+}
+
+#CV {
+  justify-content: center;
 }
 
 ::-webkit-scrollbar {
@@ -20,9 +30,6 @@
 }
 
 #Projet {
-  position: relative;
-  left: 280px;
-  bottom: 123px;
   width: 160px;
   height: 45px;
   border: none;
@@ -49,10 +56,15 @@
 
 .bloc {
   width: 800px;
-  height: 650px;
+  height: 570px;
   background-color: #202228;
   margin: 0 auto;
+  margin-top: 1%;
 }
 H1, p, H3, H2 {
   margin: 1%;
+}
+
+.txt {
+  margin-left: 17%;
 }
